@@ -4,6 +4,7 @@
 ![Screenshot 2023-09-08 000241](https://github.com/jaideepsingh0085/Nutrition/assets/128147644/dde763ea-808f-45d0-9064-9891d6b6d579)
 ![Screenshot 2023-09-08 000253](https://github.com/jaideepsingh0085/Nutrition/assets/128147644/e9ff3eaf-3749-4d97-8874-4ae0f7c3366d)
 ![Screenshot 2023-09-08 000304](https://github.com/jaideepsingh0085/Nutrition/assets/128147644/c05b83df-44e1-41c2-8719-9407a29eeef1)
+Hosted Link: https://jaideepsingh0085.github.io/Nutrition/index.html
 
 Description : 
 <div class="label">: This <div> element acts as a container for the entire nutrition label.
